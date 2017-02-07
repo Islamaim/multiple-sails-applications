@@ -1,0 +1,8 @@
+{
+  "name": "multiple sails applications",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "^4.14.1",
+    "http-express": "0.0.7"
+  }
+}
